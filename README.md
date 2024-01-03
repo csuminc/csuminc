@@ -11,25 +11,51 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
-# Hi there 👋
+<!-- Heading -->
+# *Hi there 👋*
 ## Hi there 👋
 ### Hi there 👋
 #### Hi there 👋
 ##### Hi there 👋
+
+<!-- Line -->
 ---
+
+<!-- Text attributes -->
 **두껍게** <br />
 *기울임* <br />
 ~~취소선~~
 
+<!-- Quote -->
+> 인용구
+
+<!-- Bullet list -->
 * 1번
 * 2번
 - 1번
 - 2번
 
-[네이버](naver.com)
+<!-- Link [링크이름](주소) -->
+[네이버](naver.com) <br />
+[구글](google.com)
 
+<!-- Table -->
+|Header|Description|
+|--|--|
+|cell1|cell2|
+|cell1|cell2|
+|cell1|cell2|
+
+<!-- Code ``` ``` -->
 ```
 print("안녕")
 ```
-:smirk:
-:joy:
+<!-- Task Lists -->
+- [x] 체크박스1
+- [ ] 체크박스2
+
+<!-- Emoticon -->
+:smirk: <br />
+:joy: <br />
+:koala: <br />
+
